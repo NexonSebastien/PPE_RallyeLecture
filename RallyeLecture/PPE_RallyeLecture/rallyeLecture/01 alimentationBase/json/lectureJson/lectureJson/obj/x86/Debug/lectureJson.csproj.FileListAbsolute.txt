@@ -1,0 +1,20 @@
+E:\users\odeb\Documents\Visual Studio 2010\Projects\lectureJson\lectureJson\bin\Debug\lectureJson.exe
+E:\users\odeb\Documents\Visual Studio 2010\Projects\lectureJson\lectureJson\bin\Debug\lectureJson.pdb
+E:\users\odeb\Documents\Visual Studio 2010\Projects\lectureJson\lectureJson\obj\x86\Debug\lectureJson.exe
+E:\users\odeb\Documents\Visual Studio 2010\Projects\lectureJson\lectureJson\obj\x86\Debug\lectureJson.pdb
+E:\users\odeb\Documents\Visual Studio 2010\Projects\lectureJson\lectureJson\bin\Debug\lectureJson.exe.config
+I:\Documents\btsSio\ppe34\rallyeLecture\etudiant\02 alimentation Base De données\json\lectureJson\lectureJson\bin\Debug\lectureJson.exe.config
+I:\Documents\btsSio\ppe34\rallyeLecture\etudiant\02 alimentation Base De données\json\lectureJson\lectureJson\obj\x86\Debug\lectureJson.exe
+I:\Documents\btsSio\ppe34\rallyeLecture\etudiant\02 alimentation Base De données\json\lectureJson\lectureJson\obj\x86\Debug\lectureJson.pdb
+\\SRVADSIO\publicSIO2\slamPpe3ppe4\rallyeLecture\01 alimentationBase\json\lectureJson\lectureJson\bin\Debug\lectureJson.exe.config
+\\SRVADSIO\publicSIO2\slamPpe3ppe4\rallyeLecture\01 alimentationBase\json\lectureJson\lectureJson\obj\x86\Debug\lectureJson.exe
+\\SRVADSIO\publicSIO2\slamPpe3ppe4\rallyeLecture\01 alimentationBase\json\lectureJson\lectureJson\obj\x86\Debug\lectureJson.pdb
+\\srvadsio\publicSIO2\slamPpe3ppe4\rallyeLecture\01 alimentationBase\json\lectureJson\lectureJson\bin\Debug\lectureJson.exe
+\\srvadsio\publicSIO2\slamPpe3ppe4\rallyeLecture\01 alimentationBase\json\lectureJson\lectureJson\bin\Debug\lectureJson.pdb
+\\srvadsio\publicSIO2\slamPpe3ppe4\rallyeLecture\01 alimentationBase\json\lectureJson\lectureJson\obj\x86\Debug\lectureJson.csprojResolveAssemblyReference.cache
+C:\Users\snexon\Desktop\rallyeLecture\01 alimentationBase\json\lectureJson\lectureJson\bin\Debug\lectureJson.exe.config
+C:\Users\snexon\Desktop\rallyeLecture\01 alimentationBase\json\lectureJson\lectureJson\obj\x86\Debug\lectureJson.exe
+C:\Users\snexon\Desktop\rallyeLecture\01 alimentationBase\json\lectureJson\lectureJson\obj\x86\Debug\lectureJson.pdb
+C:\Users\snexon\Desktop\rallyeLecture\01 alimentationBase\json\lectureJson\lectureJson\bin\Debug\lectureJson.exe
+C:\Users\snexon\Desktop\rallyeLecture\01 alimentationBase\json\lectureJson\lectureJson\bin\Debug\lectureJson.pdb
+C:\Users\snexon\Desktop\rallyeLecture\01 alimentationBase\json\lectureJson\lectureJson\obj\x86\Debug\lectureJson.csprojResolveAssemblyReference.cache
